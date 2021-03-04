@@ -3,7 +3,7 @@ import streamlit as st
 import plotly.express as px
 from sklearn.ensemble import RandomForestRegressor
 #Test VSCode
-# New branch test
+# Testing branch - test nº 2
 
 # função para carregar o dataset
 @st.cache
